@@ -1,4 +1,5 @@
 import React from 'react'
+import 'Src/app.css'
 
 interface IProps {
   name: string
